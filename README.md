@@ -2,10 +2,10 @@
 
 This is a prototype of the Bookish typeface as a Variable font.
 
-Free to test, but not for commercial use.
+Free to testing, but not for commercial use.
 
 Check this out:
 https://codepen.io/eeropic/pen/RxzZYG
 
-Bookish Book is released commercially:
+A full version of the font in the regular weight is released commercially as __Bookish Book__:
 https://helsinkitypestudio.com/retail/bookish
